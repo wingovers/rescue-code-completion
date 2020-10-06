@@ -1,0 +1,49 @@
+/* 
+ Copyright 2020 by Ryan Ferrell. All rights reserved. Contact at github.com/wingovers
+*/
+
+"onboarding_header" = "Code completion frozen?";
+"quit_xcode" = "Quit Xcode";
+"tap_project_here" = "Tap the project here";
+"xcode_will_relaunch_sans_corrupted_indexes" = "Xcode will relaunch sans corrupted indexes";
+"setup_button" = "Setup";
+"quit" = "Quit";
+"preferences" = "Preferences";
+"older" = "Older";
+"default" = "Default";
+"feedback_title" = "Feedback";
+"feedback_line1" = "Feature or menubar icon request? Thanks for the idea.";
+"feedback_line2" = "Something broken? Sorry.";
+"faqs_title" = "FAQs";
+"faqs_q1" = "What's the module cache folder?";
+"faqs_a1" = "Indexes for frameworks from Apple and third parties. Corruption halts code completion, similar to project-specific folders.";
+"github_open" = "Open an issue on Github";
+"email_me" = "Email Me";
+"app_name" = "Rescue Code Completion";
+"copyright_statement" = "Copyright © 2020 by Ryan Ferrell. All rights reserved.";
+"automation_joke" = "If I didn't spend a day automating a 4 second task, am I even working?";
+"copyrights_outside" = "Xcode is a registered trademark of Apple Inc.";
+"back_to_prefs" = "Back to Preferences";
+"projects_title" = "Projects";
+"ides_title" = "IDEs";
+"directories_title" = "Directories";
+"import_permissions_error" = "Access was denied by macOS.";
+"setup_projects_header" = "Click + to grant access to open Xcode projects within a directory";
+"setup_projects_tip1" = "Reopening Xcode after deleting a temp directory will relaunch the relevant project (if you've granted access)";
+"setup_directories_tip1" = "Click + to monitor an Xcode Derived Data directory.";
+"setup_directories_tipQ" = "Where is your Derived Data directory?";
+"setup_directories_tipA" = "􀀺  Open Xcode preferences\n􀀼  Tap \"Locations\" on the right\n􀀾  Tap the gray circled arrow\n􀁀  Drag the directory here";
+"setup_ides_tip1" = "Click + to link one or more Xcode applications.";
+"setup_ides_tip2" = "Linked apps can conveniently restart after clearing a corrupted directory.";
+"setup_ides_tip3" = "(Quitting Xcode beforehand helps restore code autocompletion.)";
+"menu_bar" = "Menu Bar";
+"directory_removal" = "Directory Removal";
+"option_show_today" = "Show today's projects only";
+"option_reopen_ide" = "Reopen your IDE after deletion";
+"option_reopen_project" = "Reopen cleansed project";
+"option_reopen_project_caption" = "You must add the project folder or its parent to \"Projects\" pane on the left";
+"option_start_login" = "Start at login";
+"icon_header" = "ICON";
+"option_delete_permanently" = "Delete permanently";
+"option_move_trash" = "Move to trash";
+"help_and_feedback" = "Help & Feedback";

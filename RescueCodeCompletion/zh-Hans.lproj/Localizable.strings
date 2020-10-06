@@ -1,0 +1,49 @@
+/* 
+ Copyright 2020 by Ryan Ferrell. All rights reserved. Contact at github.com/wingovers
+*/
+
+"onboarding_header" = "代码完成坏了吗？";
+"quit_xcode" = "推出Xcode";
+"tap_project_here" = "在这里按xcproj的名字";
+"xcode_will_relaunch_sans_corrupted_indexes" = "损坏的索引被册掉后，Xcode会重新启动";
+"setup_button" = "设置";
+"quit" = "推出";
+"preferences" = "设置";
+"older" = "早前";
+"default" = "默认";
+"feedback_title" = "反馈";
+"feedback_line1" = "要提出新功能，工具栏的图示么？谢谢你的意见。";
+"feedback_line2" = "也谢谢你反馈bugs和翻译问题。 我抱歉造成的不便。";
+"faqs_title" = "常见问题";
+"faqs_q1" = "ModuleCache文件夹是啥？";
+"faqs_a1" = "ModuleCache有Apple和第三方框架索引。跟xcproj衍生数据夹一样，损坏的索引会印象代码完成。";
+"github_open" = "在GitHub上报告";
+"email_me" = "发邮件";
+"app_name" = "援救代码完成";
+"copyright_statement" = "版權 © 2020。Ryan Ferrell保留所有权利。";
+"automation_joke" = "如果我没有花一天时间使4秒的任务自动化，我是否还在工作？";
+"copyrights_outside" = "Xcode是苹果电脑公司的注册商标";
+"back_to_prefs" = "回来设置";
+"projects_title" = "工程表";
+"ides_title" = "开发环境软件表";
+"directories_title" = "衍生数据夹表";
+"import_permissions_error" = "macOS绝缘存取";
+"setup_projects_header" = "按一下 +，找到含某些xcproj的父文件夹";
+"setup_projects_tip1" = "损坏索引被册掉后，父文件夹里的xcproj会被自动打开";
+"setup_directories_tip1" = "按一下 + ，找到要监视的DerivedData衍生数据夹.";
+"setup_directories_tipQ" = "你的DerivedData衍生数据夹在哪里？";
+"setup_directories_tipA" = "􀀺  打开Xcode设置\n􀀼  在右边，按一下 \"Locations\"\n􀀾  按一下灰色箭头\n􀁀  把文件夹拖放这里";
+"setup_ides_tip1" = "按一下 + ，找到你要用的Xcode或其它IDE";
+"setup_ides_tip2" = "损坏索引被册掉后，你选的IDE会被自动打开。";
+"setup_ides_tip3" = "(要提前把Xcode推出，不然不能援救好代码完成。)";
+"menu_bar" = "工具栏";
+"directory_removal" = "衍生数据夹删减";
+"option_show_today" = "仅显示今天编辑的xcproj";
+"option_reopen_ide" = "损坏索引被册掉后，把Xcode或其它IDE重新启动";
+"option_reopen_project" = "损坏的索引被册掉后，把xcproj重新打开";
+"option_reopen_project_caption" = "请你先用左边 + 按钮来加xcproj父母文件夹。";
+"option_start_login" = "登入时开发";
+"icon_header" = "工具栏图示";
+"option_delete_permanently" = "把文件夹永久册掉";
+"option_move_trash" = "把文件夹移出垃圾桶";
+"help_and_feedback" = "帮助 回馈";
