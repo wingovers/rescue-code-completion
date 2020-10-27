@@ -7,20 +7,17 @@ in the Autocomplete Rescue menubar popover.
 
 :beer:    **Corrupted indexes will be removed.**\
 Xcode will restart.
-
-
-
-:white_check_mark: Hot swap release and beta Xcode versions\
-:white_check_mark: Monitor multiple derived data directories
-
-
-
-
-
-### Support or Feedback
+<br/>
+<br/>
+:bulb: Works with multiple Xcode apps (e.g., beta + release) and derived data directories.
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+## Support or Feedback
 
 Write or chat Ryan at [wingoversdeveloper@gmail.com](mailto:wingoversdeveloper@gmail.com).
 
-### Privacy Policy
+## Privacy Policy
 
 Simple: no data are collected.
