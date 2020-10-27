@@ -7,18 +7,16 @@ in the Autocomplete Rescue menubar popover.
 
 :beer:    **Corrupted indexes will be removed.**\
 Xcode will restart.
-<br/>
-<br/>
+<br>
+<br>
 > :bulb: Works with multiple Xcode apps (e.g., beta + release) and derived data directories.
- <br/>
- <br/>
- <br/>
- <br/>
+<br>
+<br>
 ## Support & Feedback
 
 Write or chat Ryan at [wingoversdeveloper@gmail.com](mailto:wingoversdeveloper@gmail.com).
- <br/>
- <br/>
+ <br>
+ <br>
 
 ## Privacy Policy
 
