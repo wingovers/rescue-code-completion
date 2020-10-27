@@ -5,12 +5,13 @@
 :computer_mouse:     **Click your project's name**\
 in the Autocomplete Rescue menubar popover.
 
-:beers:    **Corrupted indexes will be removed.**\
+:beer:    **Corrupted indexes will be removed.**\
 Xcode will restart.
 
-**You can**\
-:white_check_mark: hot swap Xcode versions (e.g., release and beta)\
-:white_check_mark: monitor multiple derived data directories.
+
+
+:white_check_mark: Hot swap release and beta Xcode versions\
+:white_check_mark: Monitor multiple derived data directories
 
 
 
