@@ -1,4 +1,4 @@
-## When Xcode autocomplete abandons you
+## When code completion abandons you
 
 :heavy_multiplication_x:    **Quit Xcode.**
 
