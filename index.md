@@ -2,11 +2,15 @@
 
 :heavy_multiplication_x:    **Quit Xcode.**
 
-:computer_mouse:     **Click your project's name** in the Autocomplete Rescue menubar popover.
+:computer_mouse:     **Click your project's name**\
+in the Autocomplete Rescue menubar popover.
 
-:white_check_mark:    **Corrupted indexes will be removed.** Xcode will restart.
+:beers:    **Corrupted indexes will be removed.**\
+Xcode will restart.
 
-:thumbsup:    You can hot swap Xcode versions (e.g., release and beta) and monitor multiple derived data directories.
+**You can**\
+:white_check_mark: hot swap Xcode versions (e.g., release and beta)\
+:white_check_mark: monitor multiple derived data directories.
 
 ### Support or Feedback
 
