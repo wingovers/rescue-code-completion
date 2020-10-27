@@ -15,7 +15,6 @@ Xcode will restart.
 <br>
 <br>
 <br>
----
 
 ## Support & Feedback
 
