@@ -1,8 +1,12 @@
-## Menubar utility that clears corrupt Xcode project indexes
+## When Xcode autocomplete abandons you
 
-When Xcode autocomplete abandons you, quit Xcode. Tap your project's name in the Autocomplete Rescue menubar popover. The corrupted indexes will be removed and Xcode will restart.
+:heavy_multiplication_x:    **Quit Xcode.**
 
-You can hot swap between Xcode versions (e.g., release and beta) and monitor multiple derived data directories.
+:computer_mouse:     **Click your project's name** in the Autocomplete Rescue menubar popover.
+
+:white_check_mark:    **Corrupted indexes will be removed.** Xcode will restart.
+
+:thumbsup:    You can hot swap Xcode versions (e.g., release and beta) and monitor multiple derived data directories.
 
 ### Support or Feedback
 
