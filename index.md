@@ -17,6 +17,8 @@ Xcode will restart.
 ## Support or Feedback
 
 Write or chat Ryan at [wingoversdeveloper@gmail.com](mailto:wingoversdeveloper@gmail.com).
+ <br/>
+ <br/>
 
 ## Privacy Policy
 
