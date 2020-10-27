@@ -4,3 +4,5 @@ logo: autocomplete-rescue-web-logo.png
 description: Restore Xcode autocomplete with this menubar extension
 show_downloads: true
 theme: jekyll-theme-minimal
+plugins:
+ - jemoji
