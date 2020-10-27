@@ -10,8 +10,9 @@ Xcode will restart.
 <br>
 <br>
 > :bulb: Works with multiple Xcode apps (e.g., beta + release) and derived data directories.
-<br>
-<br>
+<p></p>
+<p></p>
+<p></p>
 ## Support & Feedback
 
 Write or chat Ryan at [wingoversdeveloper@gmail.com](mailto:wingoversdeveloper@gmail.com).
